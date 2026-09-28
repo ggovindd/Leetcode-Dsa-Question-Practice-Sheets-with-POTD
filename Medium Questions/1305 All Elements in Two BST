@@ -1,0 +1,48 @@
+Problem No :- 1305      (All Elements in Two BST)
+
+class Solution {
+    public List<Integer> getAllElements(TreeNode root1, TreeNode root2) {
+        List<Integer> list1=new ArrayList<>();
+        List<Integer> list2=new ArrayList<>();
+        List<Integer> mergeList=new ArrayList<>();
+       // Function call 
+        inorder(root1,list1);
+        inorder(root2,list2);
+        
+        int i=0;
+        int j=0;
+
+        // Merging the two sorted lists into one sorted list
+        while (i < list1.size() && j < list2.size()) {
+            if (list1.get(i) < list2.get(j)) {
+                mergeList.add(list1.get(i));
+                i++;
+            } else {
+                mergeList.add(list2.get(j));
+                j++;
+            }
+        }
+
+        while (i<list1.size()) {
+            mergeList.add(list1.get(i));
+            i++;
+        }
+
+        while (j<list2.size()) {
+            mergeList.add(list2.get(j));
+            j++;
+        }
+
+        return mergeList;
+    
+    } 
+     // Traversing the BST in Inorder manner to get the sorted elements of the BST
+    void inorder(TreeNode root, List<Integer> ans){
+        if(root==null) return;
+        inorder(root.left,ans);
+        ans.add(root.val);
+        inorder(root.right,ans);
+    }
+}  
+Time Complexity: O(n + m) where n is the number of nodes in the first BST and m is the number of nodes in the second BST. This is because we traverse both trees once to get their elements and then merge the two sorted lists.
+Space Complexity: O(n + m) where n is the number of nodes in the first BST and m is the number of nodes in the second BST. This is because we store the elements of both trees in separate lists before merging them.
