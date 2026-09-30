@@ -1,0 +1,24 @@
+ // Problem No:- 1111. MaximumNesting Depth Of Two Valid Parentheses Strings
+
+ // Solution in java 
+class Solution {
+    public int[] maxDepthAfterSplit(String seq) {
+        // Creating an array for returning or storing the value of parentheses
+     int[] arr = new int[seq.length()]; 
+        int count=-1;
+        List<Integer> list=new ArrayList<>();
+        for(int i=0; i<seq.length();i++){
+            if(seq.charAt(i)=='('){
+                count++;
+           arr[i]=count%2;
+            } if(seq.charAt(i)==')'){
+             arr[i]=count%2;
+              
+                count--;
+            }
+        } 
+
+           return arr;
+    
+}
+}
