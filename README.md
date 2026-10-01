@@ -47,10 +47,12 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -59,5 +61,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
