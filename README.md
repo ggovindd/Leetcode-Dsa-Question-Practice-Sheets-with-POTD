@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0022-generate-parentheses) |
 | [0606-construct-string-from-binary-tree](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0606-construct-string-from-binary-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
@@ -72,9 +73,18 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Two Pointers
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
