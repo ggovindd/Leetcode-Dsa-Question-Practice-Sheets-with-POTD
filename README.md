@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
@@ -106,4 +107,12 @@
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/1669-merge-in-between-linked-lists) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
