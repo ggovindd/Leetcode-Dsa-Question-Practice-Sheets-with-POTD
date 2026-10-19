@@ -23,7 +23,7 @@ class Solution {
                 x++;
             } 
             if (x < 0 || x >= m || y < 0 || y >= n || visited[x][y]) {
-                break;
+                return result;
             }
             visited[x][y] = true;
             result[0] = x;
