@@ -1,6 +1,7 @@
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
 // if fixed size negative and possitve no.. does'nt matter 
+// window size is continous  then we can not apply slinding window on negative no..  
         int max=Integer.MIN_VALUE;
     int i=0; int j=0;
         int sum=0;
