@@ -135,6 +135,7 @@
 | [0238-product-of-array-except-self](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0724-find-pivot-index) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1646-get-maximum-in-generated-array](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/1646-get-maximum-in-generated-array) |
@@ -184,4 +185,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/2974-minimum-number-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
