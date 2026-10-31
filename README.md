@@ -26,6 +26,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0209-minimum-size-subarray-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -133,6 +134,7 @@
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0560-subarray-sum-equals-k) |
@@ -157,6 +159,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0560-subarray-sum-equals-k) |
@@ -190,6 +193,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
