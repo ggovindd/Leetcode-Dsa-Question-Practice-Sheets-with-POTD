@@ -80,6 +80,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [1646-get-maximum-in-generated-array](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/1646-get-maximum-in-generated-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2974-minimum-number-game](https://github.com/ggovindd/Leetcode-Dsa-Question-Practice-Sheets-with-POTD/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
